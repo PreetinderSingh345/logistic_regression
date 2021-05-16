@@ -1,3 +1,3 @@
 # Logistic Regression
 
-- Implemented Logistic Regression using Generic Gradient Descent algorithm for n feature input
+- Implemented Logistic Regression algorithm using Generic Gradient Descent for n feature input
